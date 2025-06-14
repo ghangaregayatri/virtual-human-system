@@ -1,5 +1,6 @@
 # virtual-human-system
-It is my final year project. I develop a system that can detect face from video captured by webcam. The system keeps track of face movement and moves mouse based on head movement. The challenge is to develop a hands-free Human-Computer Interaction (HCI) system that enables amputees and individuals with limited hand mobility to operate computers effectively. The system needs to accurately interpret eye movements and convert them into meaningful cursor actions.
+It is my final year project.
+I develop a system that can detect face from video captured by webcam. The system keeps track of face movement and moves mouse based on head movement. The challenge is to develop a hands-free Human-Computer Interaction (HCI) system that enables amputees and individuals with limited hand mobility to operate computers effectively. The system needs to accurately interpret eye movements and convert them into meaningful cursor actions.
 
 Library Used
 
